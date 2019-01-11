@@ -18,9 +18,9 @@ resume_contact_email:           "andyjax@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "847-513-3604"
-resume_contact_address:         "2309 Central Street #3, Evanston, IL 60201"
+resume_contact_address:         "Chicago, IL"
 
-resume_header_contact_info:     "2309 Central Street #3, Evanston, IL 60201 • 847-513-3604 • andyjax@gmail.com"
+resume_header_contact_info:     "Chicago, IL • 847-513-3604 • andyjax@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Andy is a Network Engineering professional with over 10 years experience working with various networking technologies including Firewall, Load Balancing, Switching, Routing and Wireless. He also has extensive experience developing network automation scripting in Python and Powershell. More recently, Andy has stepped into a Systems Engineering role, and is developing CI/CD pipelines with Travis-CI and Argo to deploy Kubernetes clusters into the cloud. Andy is looking to help organizations solve cloud-native problems with deep knowledge of Networking and Security while also having programming ability to deliver pipelines.</p>"

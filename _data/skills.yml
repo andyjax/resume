@@ -1,11 +1,11 @@
 # Skills
 # Network Engineering
 - skill: Network Engineering
-  description: 	<ul class="resume-item-list"><li>Vendor Familiarity: Cisco Routers, Switches and ASA; F5 LTM, GTM and Enterprise Manager; Extreme Switches and Wireless Manager; Palo Alto Firewall and Panorama; VMware NSX; Opnet AppResponse Xpert; Solarwinds; Wireshark</li><li>Technologies supported, implemented and designed: OSPF, BGP, and EIGRP routing protocols; IPSec/GRE/L2TP Tunnels; Spanning tree, EAPS, LAG, MLAG layer 2 protocols; Copper and fiber cabling and patching; perl, powershell and pyshon scripting; Cisco IOS, Extreme XOS, ExtremeWare, F5 TMOS, Linux/Unix operating systems</li></ul>
+  description: 	<ul class="resume-item-list"><li>Vendor Familiarity&#58; Cisco Routers, Switches and ASA; F5 LTM, GTM and Enterprise Manager; Extreme Switches and Wireless Manager; Palo Alto Firewall and Panorama; VMware NSX; Opnet AppResponse Xpert; Solarwinds; Wireshark</li><li>Technologies supported, implemented and designed&#58; OSPF, BGP, and EIGRP routing protocols; IPSec/GRE/L2TP Tunnels; Spanning tree, EAPS, LAG, MLAG layer 2 protocols; Copper and fiber cabling and patching; perl, powershell and pyshon scripting; Cisco IOS, Extreme XOS, ExtremeWare, F5 TMOS, Linux/Unix operating systems</li></ul>
 
 # Cloud Native Engineering
 - skill: Cloud Native Engineering
-  description: <ul class="resume-item-list"><li>Projects Developed With: Kubernetes, Docker, Github, Argo, Travis-CI, Istio, GKE, Gardener</li></ul>
+  description: <ul class="resume-item-list"><li>Projects Developed With&#58; Kubernetes, Docker, Github, Argo, Travis-CI, Istio, GKE, Gardener</li></ul>
   
 # Certifications
 - skill: Certifications
